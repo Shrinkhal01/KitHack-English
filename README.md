@@ -37,6 +37,7 @@
 | Arch Linux   | En desarrollo |
 | Termux       | En desarrollo |
 
+
 ## Instalación: 
 
 ```bash
